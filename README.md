@@ -9,4 +9,8 @@
   	<td>704.066.014-88</td>
 	<td>Matheus Machado Vieira</td>
   </tr>
+  <tr>
+	<td>118.405.484-36</td>
+	<td>Vinicius S. Almeida</td>
+  </tr>
 </table>
